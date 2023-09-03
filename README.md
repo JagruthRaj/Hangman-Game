@@ -1,2 +1,4 @@
 # Hangman-Game
-This Gives Lot of Fun 
+ Guess the correct word to win the Game, 
+ Wrong Guess leads to Game Over
+
